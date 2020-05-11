@@ -1,2 +1,2 @@
 # GithubFollowers
-Know who you follow and doesn't follow back, Github.
+Know whom you follow and doesn't follow you back, Github.
